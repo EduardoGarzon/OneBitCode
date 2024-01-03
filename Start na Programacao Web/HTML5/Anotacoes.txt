@@ -1,5 +1,0 @@
-O nome index para o arquivo html vem do inglês índice, 
-é usado pois os navegadores entendem o index.html como o arquivo inicial.
-
-O html é a estrutura e o esqueleto da página que define os elementos da página, 
-sendo uma linguagem de marcacao que utiliza <tags> para estruturar tais elementos.
